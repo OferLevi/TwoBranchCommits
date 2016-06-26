@@ -1,1 +1,2 @@
 First file data
+New line entered in SecondBranch
